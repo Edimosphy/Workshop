@@ -7,8 +7,9 @@ Transaction ID: at14jaxmc3l8znmcrfsyefp9tcyq7jrf36wv79d6vkwrfvagfzc8vgs698pcu
 ![Screenshot_20240823-064854](https://github.com/user-attachments/assets/f5cf084a-ad25-4006-93d0-d43e9f490590)
 
 ## Description
+
 # First Workshop
-Command: leo run main 3u32 2u32 --network testnet
+Command: `leo run main 3u32 2u32 --network testnet`
 Where main = transition function name, `3u32 2u32` is the inputs and network is specified `testnet`
 I deploy using demo.leo.app
 `generated private key in my.env needs to be change to that of your Leo wallet private key` for it to be deployed without error
